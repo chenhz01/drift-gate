@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 chenhz01 — see LICENSE, LICENSE-SPEC and NOTICE
 """drift-gate: distribution fingerprinting + drift alerts for embedding sets.
 
 Pure standard library. Build a statistical fingerprint (per-dimension mean/std +
