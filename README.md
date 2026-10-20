@@ -48,7 +48,7 @@ Being explicit here is cheaper than a wrong expectation later.
 
 ## Exit codes
 
-`0` = clean, `1` = findings. Gate your pipeline on `$?`.
+`0` = drift under `--threshold`. `1` = drift alert. `2` = bad input.
 
 ## Install
 
