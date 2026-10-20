@@ -19,8 +19,7 @@
 One command, on a file you already have:
 
 ```bash
-python gate.py build -i examples/vectors.jsonl -o examples/baseline.json && \
-  python gate.py check -i examples/vectors_new.jsonl -b examples/baseline.json --threshold 0.2
+python gate.py check -i examples/vectors_new.jsonl -b examples/baseline.json --threshold 0.2
 ```
 
 <details>
