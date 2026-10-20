@@ -1,5 +1,5 @@
 name: drift-gate
-description: When embeddings drift, retrieval quietly rots. Fingerprint it.
+description: Embedding drift watch: fingerprint retrieval quality so silent embedding drift cannot rot your RAG.
 branding:
   icon: shield
   color: blue
